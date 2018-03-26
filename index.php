@@ -37,7 +37,7 @@
                         <a href="#" data-toggle="modal" data-target="#xcontact-modal"><i class="fas fa-comment-alt"></i></a>
                     </div>
                     <div class="xicon-holder text-center rounded-circle xdblue">
-                        <a href="https://www.linkedin.com/in/joseph-andrew-sienes-39b66191/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.linkedin.com/in/andsien/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                     <div class="xicon-holder text-center rounded-circle xlblack">
                         <a href="https://github.com/andsien" target="_blank"><i class="fab fa-github"></i></a>
