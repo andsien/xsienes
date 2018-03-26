@@ -29,7 +29,9 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-3 xnavi">
-                <img src="images/xdface.jpg" class="xface rounded-circle" alt="Joseph Andrew Sienes">
+                <a data-fancybox href="images/andrew.jpg" data-thumb="images/andrew.jpg">
+                    <img src="images/xdface.jpg" class="xface rounded-circle" alt="Joseph Andrew Sienes">
+                </a>
                 <div class="xnavi-i-container">
                     <div class="xicon-holder text-center rounded-circle xdgray">
                         <a href="#" data-toggle="modal" data-target="#xcontact-modal"><i class="fas fa-comment-alt"></i></a>
