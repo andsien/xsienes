@@ -37,6 +37,11 @@
     height: 90px;
     margin-bottom: 10px;
 }
+
+.xwork-col a{
+    cursor: pointer;
+}
+
 .xicon-holder{
     width: 60px;
     height: 60px;
