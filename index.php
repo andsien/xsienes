@@ -79,7 +79,8 @@
                         </div>
                     </div>
                     <div class="hidden">
-                        <a data-fancybox="xgallery" href="images/pinoyfootball.png" data-thumb="images/coopbank.png"></a>
+                        <a data-fancybox="xgallery" href="images/pinoyfootball.png" data-thumb="images/pinoyfootball.png"></a>
+                        <a data-fancybox="xgallery" href="images/xphoto.png" data-thumb="images/xphoto.png"></a>
                     </div>
                 </div>
             </div>
