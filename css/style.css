@@ -1,3 +1,10 @@
+body
+{
+    font-family: "Lato" !important;
+    color: #585553;
+    letter-spacing: 0.15em !important;
+    font-size: 12px;
+}
 .xnavi{
     position: relative;
     height: 100vh;
@@ -17,9 +24,14 @@
     padding: 70px 120px !important;
     color: #ffffff;
  }
+
+.xabout p{
+    font-size: 14px;
+}
+
 .xabout h1{
     font-size: 3.5rem;
-    font-family: "impact"!important;
+    /*font-family: "impact"!important;*/
     margin-bottom: 30px;
 }
 .xwork{
@@ -32,6 +44,12 @@
     color: #525252;
     font-size: 14px;
 }
+
+.xwork-col img:hover {
+    border-color: #ffffff;
+    box-shadow: 0 0 8px rgba(199, 199, 199, 0.60);
+}
+
 .xwork-col img{
     border: 10px solid #d7e8fa;
     height: 90px;
