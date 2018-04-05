@@ -59,7 +59,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-12 xwork-col">
                             <div class="text-center">
-                                <a data-fancybox="xgallery" href="images/coopbank.png" data-thumb="images/coopbank.png">
+                                <a data-fancybox="xgallery" href="images/coopbank.jpg" data-thumb="images/coopbank.jpg">
                                     <img src="images/wweb.jpg" class="rounded-circle" alt="web developer">
                                 </a>
                             </div>
@@ -79,8 +79,8 @@
                         </div>
                     </div>
                     <div class="hidden">
-                        <a data-fancybox="xgallery" href="images/pinoyfootball.png" data-thumb="images/pinoyfootball.png"></a>
-                        <a data-fancybox="xgallery" href="images/xphoto.png" data-thumb="images/xphoto.png"></a>
+                        <a data-fancybox="xgallery" href="images/pinoyfootball.jpg" data-thumb="images/pinoyfootball.jpg"></a>
+                        <a data-fancybox="xgallery" href="images/xphotography.jpg" data-thumb="images/xphotography.jpg"></a>
                     </div>
                 </div>
             </div>
