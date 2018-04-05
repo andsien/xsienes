@@ -49,18 +49,18 @@
             </div>
             <div class="col-9 xcontainer">
                 <div class="xabout">
-                    <h1 data-aos="fade-down-right">Hi, I’m Andrew!</h1>
-                    <p data-aos="zoom-out-left">I’m an experienced Scrum Master with a demonstrated history of working in the internet industry. Skilled in PHP, WordPress, User Interface Design, XHTML, and jQuery. Strong engineering professional with a Information Management focused in Management Information Systems, General from Silliman University.</p>
+                    <h1 data-aos="fade-down">Hi, I’m Andrew!</h1>
+                    <p data-aos="fade-down">I’m an experienced Scrum Master with a demonstrated history of working in the internet industry. Skilled in PHP, WordPress, User Interface Design, XHTML, and jQuery. Strong engineering professional with a Information Management focused in Management Information Systems, General from Silliman University.</p>
                 </div>
                 <div class="xwork">
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-12 xwork-col">
                             <div class="text-center">
-                                <a data-fancybox="xgallery" href="images/coopbank.jpg" data-thumb="images/coopbank.jpg">
+                                <a data-fancybox="xgallery" data-caption="<a target='blank' href='http://coopbanknegor.ph/'>coopbanknegor.ph" href="images/coopbank.jpg" data-thumb="images/coopbank.jpg">
                                     <img data-aos="zoom-in" src="images/wweb.jpg" class="rounded-circle" alt="web developer">
                                 </a>
                             </div>
-                            <div data-aos="zoom-out-left">Started web development back in College around 12 years ago. Uses PHP Laravel framework, mysql on web applications and vuejs on frontend. </div>
+                            <div data-aos="fade-up">Started web development back in College around 12 years ago. Uses PHP Laravel framework, mysql on web applications and vuejs on frontend. </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-12  xwork-col">
                             <div class="text-center">
@@ -68,18 +68,18 @@
                                     <img data-aos="zoom-in" src="images/wcsm.jpg" class="rounded-circle" alt="certified scrum master"/>
                                 </a>
                             </div>
-                            <div data-aos="zoom-out-right">I have 3 years experience in scrum methodology. I facilitate development teams that uses agile development and mananges the process on how information is exchanged</div>
+                            <div data-aos="fade-up">I have 3 years experience in scrum methodology. I facilitate development teams that uses agile development and mananges the process on how information is exchanged</div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-12  xwork-col">
                             <div class="text-center">
                                 <img data-aos="zoom-in" src="images/wmobile.jpg" class="rounded-circle" alt="mobile developer">
                             </div>
-                            <div data-aos="zoom-out-left">3 years experience in iOS development. Code using native language objective-c and swift. I do also have 1 year experience working on Xamarin.</div>
+                            <div data-aos="fade-up">3 years experience in iOS development. Code using native language objective-c and swift. I do also have 1 year experience working on Xamarin.</div>
                         </div>
                     </div>
                     <div class="hidden">
-                        <a data-fancybox="xgallery" href="images/pinoyfootball.jpg" data-thumb="images/pinoyfootball.jpg"></a>
-                        <a data-fancybox="xgallery" href="images/xphotography.jpg" data-thumb="images/xphotography.jpg"></a>
+                        <a data-fancybox="xgallery" data-caption="<a target='blank' href='http://pinoyfootball.com/'>pinoyfootball.com" href="images/pinoyfootball.jpg" data-thumb="images/pinoyfootball.jpg"></a>
+                        <a data-fancybox="xgallery" data-caption="<a target='blank' href='http://xsienes.com/xphotography/'>xphotography.com" href="images/xphotography.jpg" data-thumb="images/xphotography.jpg"></a>
                     </div>
                 </div>
             </div>
