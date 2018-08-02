@@ -54,23 +54,23 @@
                 </div>
                 <div class="xwork">
                     <div class="row">
-                        <div class="col-lg-4 col-md-4 col-sm-12 xwork-col">
+                        <div class="col-lg-4 col-md-12 col-sm-12 xwork-col">
                             <div class="text-center">
                                 <a data-fancybox="xgallery" data-caption="<a target='blank' href='http://coopbanknegor.ph/'>coopbanknegor.ph" href="images/coopbank.jpg" data-thumb="images/coopbank.jpg">
                                     <img data-aos="zoom-in" src="images/wweb.jpg" class="rounded-circle" alt="web developer">
                                 </a>
                             </div>
-                            <div data-aos="fade-up">Started web development back in College around 12 years ago. Uses PHP Laravel framework, mysql on web applications and vuejs on frontend. </div>
+                            <div data-aos="fade-up">Started web development back in College around 12 years ago. I have years of experience in PHP Laravel framework, mysql, jquery, ajax, vuejs, nodejs and socket.io. </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-12  xwork-col">
+                        <div class="col-lg-4 col-md-12 col-sm-12  xwork-col">
                             <div class="text-center">
                                 <a data-fancybox data-type="iframe" data-src="http://xsienes.com/file/Joseph%20Andrew%20Lopez%20Sienes-ScrumAlliance_CSM_Certificate.pdf">
                                     <img data-aos="zoom-in" src="images/wcsm.jpg" class="rounded-circle" alt="certified scrum master"/>
                                 </a>
                             </div>
-                            <div data-aos="fade-up">I have 3 years experience in scrum methodology. I facilitate development teams that uses agile development and mananges the process on how information is exchanged</div>
+                            <div data-aos="fade-up">I have 3 years experience in scrum methodology. I facilitate development teams that uses agile development and mana ges the process on how information is exchanged</div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-12  xwork-col">
+                        <div class="col-lg-4 col-md-12 col-sm-12  xwork-col">
                             <div class="text-center">
                                 <img data-aos="zoom-in" src="images/wmobile.jpg" class="rounded-circle" alt="mobile developer">
                             </div>
