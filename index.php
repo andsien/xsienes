@@ -68,7 +68,11 @@
                                     <img data-aos="zoom-in" src="images/wcsm.jpg" class="rounded-circle" alt="certified scrum master"/>
                                 </a>
                             </div>
+<<<<<<< HEAD
                             <div data-aos="fade-up">I have 3 years experience in scrum methodology. I facilitate development teams that uses agile development and manages the process on how information is exchanged</div>
+=======
+                            <div data-aos="fade-up">I have 3 years experience in scrum methodology. I facilitate development teams that uses agile development and mana ges the process on how information is exchanged</div>
+>>>>>>> 2e9e7db117a93ae1b70b8d1b0a59773b36c9e2ee
                         </div>
                         <div class="col-lg-4 col-md-12 col-sm-12  xwork-col">
                             <div class="text-center">
